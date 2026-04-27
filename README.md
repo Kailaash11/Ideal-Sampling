@@ -60,4 +60,4 @@ plt.show()
 <img width="1020" height="672" alt="WhatsApp Image 2026-04-21 at 9 06 18 AM" src="https://github.com/user-attachments/assets/fb52b894-0ce7-4de3-9991-85c94f66f6e1" />
 
 # Results
- A simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling issuccessfully generated 
+ A simple Python program for the construction and reconstruction of ideal, natural, and flattop sampling is successfully generated 
